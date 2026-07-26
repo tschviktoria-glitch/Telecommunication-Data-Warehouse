@@ -250,7 +250,6 @@ Das Repository enthält eine vollständige Projektdokumentation.
 - ER-Modell
 - Multidimensionales ER-Modell
 - Galaxy Schema
-- Datenbankarchitektur
 
 ---
 
