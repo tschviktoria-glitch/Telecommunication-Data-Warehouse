@@ -248,8 +248,11 @@ Das Repository enthält eine vollständige Projektdokumentation.
 ## Diagramme
 
 - ER-Modell
+![ER Model](docs/diagrams/er_model.png)
 - Multidimensionales ER-Modell
+![Multidimensionales ER-Modell](docs/diagrams/multidimensional_er_model.png)
 - Galaxy Schema
+![Galaxy Schema](docs/diagrams/galaxy_schema.png)
 
 ---
 
@@ -275,8 +278,8 @@ Dieses Projekt demonstriert praktische Kenntnisse in folgenden Bereichen:
 
 **Viktoria Tschuchmann**
 
-Junior Data Analyst | Junior Data Engineer
+📧 tschviktoria@gmail.com
 
-GitHub: https://github.com/DEIN_GITHUB
+🔗 GitHub: https://github.com/tschviktoria-glitch
 
-LinkedIn: https://linkedin.com/in/DEIN_LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/viktoria-tschuchmann/
