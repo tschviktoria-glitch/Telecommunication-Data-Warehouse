@@ -1,0 +1,6 @@
+kampagne_id;kampagnenname;kampagnentyp;rabatt;startdatum;enddatum;beschreibung
+1;Sommer Deal 2023;Rabattaktion;20;2023-06-01;2023-08-31;20% Rabatt auf alle Tarife im Sommer
+2;Neukunden Bonus;Neukundengewinnung;15;2023-01-01;2023-03-31;15% Rabatt für Neukunden im ersten Monat
+3;Black Friday 2023;Saisonaktion;30;2023-11-24;2023-11-27;30% auf Premium & Business Tarife
+4;Treuebonus 2024;Kundenbindung;10;2024-01-01;2024-12-31;10% für Kunden mit mehr als 2 Jahren Vertrag
+5;Frühjahr Aktion 2024;Rabattaktion;25;2024-03-01;2024-04-30;25% Rabatt auf Postpaid Tarife
