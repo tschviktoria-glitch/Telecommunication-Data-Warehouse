@@ -228,22 +228,22 @@ Der Datenbestand umfasst ungefähr:
 
 # Dokumentation
 
-Das Repository enthält eine vollständige Projektdokumentation.
+Das Repository enthält eine vollständige Projektdokumentation, die den gesamten Entwicklungsprozess – von der Modellierung der Business-Datenbank bis zur Umsetzung des Data Warehouse und der analytischen SQL-Abfragen – beschreibt.
 
-## Dokumentation
+Die Dokumentation umfasst:
 
 - Projektbeschreibung
-- Import der Daten in die Business-Datenbank
-- Relationales Datenmodell
-- Überprüfung der Normalformen
-- Relationen
+- Import der CSV-Daten in die Business-Datenbank
+- Relationales Datenmodell (ERM)
+- Überprüfung der Normalformen (1NF–3NF)
+- Relationen und Kardinalitäten
 - Speicherplatzberechnung
-- Multidimensionales ER-Modell
+- Multidimensionales ER-Modell (mER)
 - Galaxy Schema
-- Mapping-Tabelle
+- ETL-Mapping-Spezifikation
 - ETL-Dokumentation
-- SCD Typ 2
-- Business-Fragen
+- Slowly Changing Dimension (SCD Typ 2)
+- Business-Fragen und SQL-Abfragen
 
 ## Diagramme
 
